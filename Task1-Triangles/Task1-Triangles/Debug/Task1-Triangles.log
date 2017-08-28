@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Task1-Triangles.cpp
+c:\users\kskibax\desktop\!!!\task1-triangles\task1-triangles\task1-triangles.cpp(30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kskibax\desktop\!!!\task1-triangles\task1-triangles\task1-triangles.cpp(54): warning C4715: 'TriangleName': not all control paths return a value
+  Task1-Triangles.vcxproj -> C:\Users\kskibax\Desktop\!!!\Task1-Triangles\Debug\Task1-Triangles.exe
+  Task1-Triangles.vcxproj -> C:\Users\kskibax\Desktop\!!!\Task1-Triangles\Debug\Task1-Triangles.pdb (Full PDB)
