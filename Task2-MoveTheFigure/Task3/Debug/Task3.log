@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Task3.cpp
+c:\users\kskibax\documents\visual studio 2015\projects\task3 - movethefigure\task3\task3.cpp(13): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Task3.vcxproj -> C:\Users\kskibax\Documents\Visual Studio 2015\Projects\Task3 - MoveTheFigure\Debug\Task3.exe
+  Task3.vcxproj -> C:\Users\kskibax\Documents\Visual Studio 2015\Projects\Task3 - MoveTheFigure\Debug\Task3.pdb (Full PDB)
